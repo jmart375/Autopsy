@@ -13,17 +13,28 @@ Autopsy is a powerful open-source digital forensics platform that assists in the
 
 - **Features:**
   - File analysis, keyword search, timeline analysis, and more.
+ 
+## Project Walk-Through
 
-- **Community:**
-  - Join our active community of forensic professionals and enthusiasts.
+<p align="center">
+- **Step 1: Acquire Evidence:**:  <br/>
+<img src="https://imgur.com/sZ73wlN.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
 
-- **License:**
-  - Autopsy is released under the [License Name] license.
+- **Step 1: Acquire Evidence:**
+  - Gather the digital evidence that you want to analyze
+- **Step 2: Prepare Environment:**
+  - Set up your forensic workstation with necessary hardware and software.
+- **Step 3: Acquire Evidence:**
+- **Step 4: Run Preliminary Analysis:**
+- Execute preliminary analysis tools to get an overview of the evidence.
+- Identify potential areas of interest.
+- **Step 5: Deep Dive Analysis:**
+- Use specialized tools for in-depth analysis of specific artifacts (files, registry, network activity, etc).
+- Document your findings and observations.
+- **Step 6: Generate Reports:**
+- Create comprehensive reports summarizing your analysis.
+- Include relevant details, timestamps, and artifacts.
+- **Step 7: Documentation:**
+- Document your entire process, including steps taken, tools used, and results obtained.
 
-## Getting Started
-
-To get started with Autopsy, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/[your-username]/Autopsy.git
