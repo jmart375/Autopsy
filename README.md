@@ -1,12 +1,12 @@
 # Autopsy Computer Software Project
 
-![Autopsy Logo](url-to-logo.png)
-
+<img src="https://imgur.com/dM8M4WS.png" height="40%" width="40%" alt="VirtualBox"/>
+<br />
 An Open-Source Digital Forensics Platform
 
 ## Overview
 
-Autopsy is a powerful open-source digital forensics platform that assists in the analysis of disk images and other evidence. It provides a robust set of features for forensic investigators and is actively supported by a vibrant community of contributors.
+Autopsy is a powerful open-source digital forensics platform that assists in the analysis of disk images and other evidence. It provides a robust set of features for forensic investigators.
 
 - **Objective:**
   - Autopsy aims to streamline and enhance the process of digital forensics investigations.
@@ -17,24 +17,33 @@ Autopsy is a powerful open-source digital forensics platform that assists in the
 ## Project Walk-Through
 
 <p align="center">
-- **Step 1: Acquire Evidence:**:  <br/>
-<img src="https://imgur.com/sZ73wlN.png" height="80%" width="80%" alt="VirtualBox"/>
-<br />
 
-- **Step 1: Acquire Evidence:**
+**Step 1: Acquire Evidence:**
   - Gather the digital evidence that you want to analyze
-- **Step 2: Prepare Environment:**
+    <img src="https://imgur.com/WccknJJ.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
+    
+**Step 2: Prepare Environment:**
   - Set up your forensic workstation with necessary hardware and software.
-- **Step 3: Acquire Evidence:**
-- **Step 4: Run Preliminary Analysis:**
+  
+**Step 3: Run Preliminary Analysis:**
 - Execute preliminary analysis tools to get an overview of the evidence.
 - Identify potential areas of interest.
-- **Step 5: Deep Dive Analysis:**
+  <img src="https://imgur.com/Dl6EnFS.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
+  
+**Step 4: Deep Dive Analysis:**
 - Use specialized tools for in-depth analysis of specific artifacts (files, registry, network activity, etc).
 - Document your findings and observations.
-- **Step 6: Generate Reports:**
+  <img src="https://imgur.com/Rw8G6tM.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
+  
+**Step 5: Generate Reports:**
 - Create comprehensive reports summarizing your analysis.
 - Include relevant details, timestamps, and artifacts.
-- **Step 7: Documentation:**
+  <img src="https://imgur.com/sZ73wlN.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
+  
+**Step 6: Documentation:**
 - Document your entire process, including steps taken, tools used, and results obtained.
 
